@@ -158,7 +158,7 @@ A systematic ablation study was conducted across **7 configurations**, removing 
 | Configuration | ROUGE-L | BERTScore | NDCG@5 | MRR@5 | Cost vs Full |
 |---|---|---|---|---|---|
 | **Full system** ✅ | **0.3533** | **0.8381** | 0.9276 | **0.9500** | — |
-| No reranker | 0.2921 | 0.8194 | 0.8818 | 0.8806 | -0.0611 |
+| Cross-Encoder reranker | 0.2921 | 0.8194 | 0.8818 | 0.8806 | -0.0611 |
 | Dense only (no BM25) | 0.3171 | 0.8237 | **0.9295** | 0.9500 | -0.0362 |
 | BM25 only (no dense) | 0.2805 | 0.8200 | 0.7358 | 0.7167 | -0.0727 |
 | Fixed chunking (256w) | 0.1611 | 0.7874 | 0.0333 | 0.0333 | **-0.1922** ✅ p=0.0007 |
