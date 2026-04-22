@@ -406,10 +406,10 @@ rag-culinary-assistant/
 
 ## Author
 
-**Rohan Inamdar** — MSc Data Science, University of Manchester
+**Kavin Sundarr, Rohan Inamdar**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohan-inamdar-47aa4b251/)
-[![GitHub](https://img.shields.io/badge/GitHub-irohan0-black?style=flat&logo=github)](https://github.com/irohan0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/s-kavin-sundarr-333450238/)
+[![GitHub](https://img.shields.io/badge/GitHub-KavinSundarr-black?style=flat&logo=github)](https://github.com/KavinSundarr)
 
 ---
 
